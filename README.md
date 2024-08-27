@@ -1,5 +1,10 @@
-## Next.js App Router Course - Starter
+## Небольшой обзорный туториал из официальной документации Next.js
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Ссылка на туториал: https://nextjs.org/learn/dashboard-app
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Задеплоен проект тут: https://nextjs-dashboard-rust-nine-38.vercel.app/
+
+Для входа на дашборд необходимо ввести следующие данные:
+
+- почта: user@nextmail.com
+- пароль: 123456
